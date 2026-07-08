@@ -4,6 +4,12 @@
 
 Passionate Full Stack Developer with a strong foundation in backend and frontend development. I enjoy building scalable web applications, learning new technologies, and solving real-world problems. I am seeking an opportunity where I can contribute, improve my skills, and grow as a software developer.
 
+
+## 🎯 Career Objective
+
+I am passionate about developing reliable and scalable software solutions. My goal is to work in a collaborative environment where I can apply my technical skills, learn from experienced professionals, and contribute to meaningful projects.
+
+
 ---
 
 ## 👨‍💻 About Me
@@ -125,11 +131,6 @@ An AI-powered document assistant that allows users to upload documents and ask q
 - HackerRank 5⭐ SQL
 
 ---
-
-## 🎯 Career Objective
-
-I am passionate about developing reliable and scalable software solutions. My goal is to work in a collaborative environment where I can apply my technical skills, learn from experienced professionals, and contribute to meaningful projects.
-
 
 
 ## 📫 Connect With Me
