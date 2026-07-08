@@ -130,17 +130,7 @@ An AI-powered document assistant that allows users to upload documents and ask q
 
 I am passionate about developing reliable and scalable software solutions. My goal is to work in a collaborative environment where I can apply my technical skills, learn from experienced professionals, and contribute to meaningful projects.
 
----
 
-## 📊 GitHub Stats
-
-![Baharathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddy-bharathi&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddy-bharathi&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=reddy-bharathi&theme=github-dark)
-
----
 
 ## 📫 Connect With Me
 
